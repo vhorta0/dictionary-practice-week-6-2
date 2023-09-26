@@ -19,5 +19,4 @@ for student in students:
   print(student['Email'][1])
   print(student['CPSID'])
   print("_"*25)
-
-
+#:3
